@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @floydsaxe [yahoo]
+- 👋 Hi, I’m floydsaxe
 - 👀 I’m interested in what I call "3M"-(Math, Music, Money)
 - 🌱 I’m currently learning Maple, Presonus, TDAmeritrade, python, AI, Raspberries, ESP32
 - 💞️ I’m looking to collaborate on anything productive, learn anything
